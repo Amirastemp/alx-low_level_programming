@@ -4,7 +4,7 @@
  * main - prints all combination of a single digit
  *
  * Return: Always 0 (success)
- */²
+ */
 int main(void)
 {
 int x = '0';
